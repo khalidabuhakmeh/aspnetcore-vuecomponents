@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-vuecomponents", "aspnetcore-vuecomponents.csproj", "{0EF28668-F074-4BBB-B755-AD1A8AE0F36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF28668-F074-4BBB-B755-AD1A8AE0F36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF28668-F074-4BBB-B755-AD1A8AE0F36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF28668-F074-4BBB-B755-AD1A8AE0F36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF28668-F074-4BBB-B755-AD1A8AE0F36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

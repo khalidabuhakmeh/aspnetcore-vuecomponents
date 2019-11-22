@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_aspnetcore-vuecomponents.-499592981.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".cache" t="Include">
+        <e p="a3" t="Include">
+          <e p="ef0a531c7b4e269ef4d12d52772719.json" t="Include" />
+        </e>
+      </e>
+      <e p=".gitignore" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="aspnetcore-vuecomponents.csproj" t="IncludeRecursive" />
+      <e p="aspnetcore-vuecomponents.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="global.json" t="Include" />
+      <e p="node_modules/@types" t="IncludeRecursive" />
+      <e p="node_modules/@vue/component-compiler-utils" t="IncludeRecursive" />
+      <e p="node_modules/chalk" t="IncludeRecursive" />
+      <e p="node_modules/commander" t="IncludeRecursive" />
+      <e p="node_modules/parcel-bundler" t="IncludeRecursive" />
+      <e p="node_modules/postcss" t="IncludeRecursive" />
+      <e p="node_modules/postcss-selector-parser" t="IncludeRecursive" />
+      <e p="node_modules/source-map" t="IncludeRecursive" />
+      <e p="node_modules/terser" t="IncludeRecursive" />
+      <e p="node_modules/vue" t="IncludeRecursive" />
+      <e p="node_modules/vue-custom-element" t="IncludeRecursive" />
+      <e p="node_modules/vue-template-compiler" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="aspnetcore-vuecomponents.AssemblyInfo.cs" t="Include" />
+            <e p="aspnetcore-vuecomponents.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="package-lock.json" t="Include" />
+      <e p="package.json" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Error.cshtml" t="Include" />
+        <e p="Error.cshtml.cs" t="Include" />
+        <e p="Index.cshtml" t="Include" />
+        <e p="Index.cshtml.cs" t="Include" />
+        <e p="Privacy.cshtml" t="Include" />
+        <e p="Privacy.cshtml.cs" t="Include" />
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          <e p="Components" t="Include">
+            <e p="HelloWorld" t="Include">
+              <e p="Default.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="ViewComponents" t="Include">
+        <e p="HelloWorld.cs" t="Include" />
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="js" t="Include">
+          <e p="Components" t="Include">
+            <e p="helloworld.vue" t="Include" />
+          </e>
+          <e p="dist" t="Include">
+            <e p="site.js" t="Include" />
+            <e p="site.js.map" t="Include" />
+          </e>
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-grid.css" t="Include" />
+                <e p="bootstrap-grid.css.map" t="Include" />
+                <e p="bootstrap-grid.min.css" t="Include" />
+                <e p="bootstrap-grid.min.css.map" t="Include" />
+                <e p="bootstrap-reboot.css" t="Include" />
+                <e p="bootstrap-reboot.css.map" t="Include" />
+                <e p="bootstrap-reboot.min.css" t="Include" />
+                <e p="bootstrap-reboot.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.js" t="Include" />
+                <e p="bootstrap.bundle.js.map" t="Include" />
+                <e p="bootstrap.bundle.min.js" t="Include" />
+                <e p="bootstrap.bundle.min.js.map" t="Include" />
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.js.map" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="bootstrap.min.js.map" t="Include" />
+              </e>
+            </e>
+            <e p="LICENSE" t="Include" />
+          </e>
+          <e p="jquery" t="Include">
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="additional-methods.min.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+              <e p="jquery.validate.min.js" t="Include" />
+            </e>
+            <e p="LICENSE.md" t="Include" />
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>

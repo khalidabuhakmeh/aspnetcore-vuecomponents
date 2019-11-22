@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@addTagHelper *, aspnetcore-vuecomponents
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <!-- HTML -->
+    <h2>Hello Safe and Familiar HTML World!</h2>
+    <!-- Vue Component : Rendered Client-side -->
+    <hello-world></hello-world>
+    <!-- ASP.NET Core View Component : Rendered Server-side -->    
+    <vc:hello-world></vc:hello-world>
+</div>

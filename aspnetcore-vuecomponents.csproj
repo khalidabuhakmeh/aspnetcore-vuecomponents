@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <RootNamespace>aspnetcore_vuecomponents</RootNamespace>
+    </PropertyGroup>
+    
+    <Target Name="Parcel" BeforeTargets="Build">
+        <Exec Command="npm run build" />
+    </Target>
+
+</Project>
